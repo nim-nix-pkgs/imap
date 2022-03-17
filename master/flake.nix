@@ -11,7 +11,7 @@
   inputs.src-imap-master.owner = "~ehmry";
   inputs.src-imap-master.ref   = "refs/heads/master";
   inputs.src-imap-master.repo  = "nim_imap";
-  inputs.src-imap-master.type  = "other";
+  inputs.src-imap-master.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 

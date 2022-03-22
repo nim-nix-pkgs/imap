@@ -9,7 +9,7 @@
   
   inputs.src-imap-v0_2_1.flake = false;
   inputs.src-imap-v0_2_1.owner = "~ehmry";
-  inputs.src-imap-v0_2_1.ref   = "v0.2.1";
+  inputs.src-imap-v0_2_1.ref   = "v0_2_1";
   inputs.src-imap-v0_2_1.repo  = "nim_imap";
   inputs.src-imap-v0_2_1.type  = "sourcehut";
   

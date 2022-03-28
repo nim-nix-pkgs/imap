@@ -11,7 +11,6 @@
   inputs.src-imap-v0_2_0.ref   = "v0.2.0";
   inputs.src-imap-v0_2_0.owner = "~ehmry";
   inputs.src-imap-v0_2_0.repo  = "nim_imap";
-  inputs.src-imap-v0_2_0.dir   = "";
   inputs.src-imap-v0_2_0.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

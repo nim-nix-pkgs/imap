@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-imap-master": "src-imap-master"
+        "src-imap-v0_3_0": "src-imap-v0_3_0"
       }
     },
-    "src-imap-master": {
+    "src-imap-v0_3_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1539204503,
-        "narHash": "sha256-msWyZLRL6k+ylNIkeRUmQ4ME1cfWxLg0zaHQMRnqWGE=",
+        "lastModified": 1528027437,
+        "narHash": "sha256-38msepC/5E69sOLwwgHROhkKQXtreC3OM/TO8qJ9zxg=",
         "owner": "~ehmry",
         "repo": "nim_imap",
-        "rev": "dfd95505661052a86c9acf728669395846ce8cdf",
+        "rev": "c6880957365f495d21877c5bfdcf6b3053b6172f",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "master",
+        "ref": "v0.3.0",
         "repo": "nim_imap",
         "type": "sourcehut"
       }
